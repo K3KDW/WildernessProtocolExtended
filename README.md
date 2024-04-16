@@ -14,9 +14,9 @@ All times are local. Where applicable, feel free to monitor adjacent time zones.
 4:00   -  4:05 AM
 
 ## Frequency/Channel selection. Use the first frequency or channel your radio is capable of beginning at the top of the list.
-#1  146.52 MHz    (2 meter amateur radio calling frequency)
+#1  146.52 MHz    (2 meter amateur radio calling frequency. Analog FM.)
 #2  GMRS/FRS 19   (GMRS and FRS radios share frequencies "main" talk channel. 462.65 MHz for those with a VFO. Shout to NotARubicon!)
-#3  446.0         (70 cm amateur radio calling frequency)
+#3  446.0         (70 cm amateur radio calling frequency. Analog FM.)
 #4  28.4 MHz      (10 meter amateur radio calling frequency)
 #5  7.030 MHz     (40 meter amateur radio QRP center of activity. See notes below)
 
@@ -53,6 +53,15 @@ Higher frequencies are removed and lower frequencies added
 Commonly used non-amateur bands are added
 
 #TO DO
-Should CB or other frequencies be included? Should GMRS 16 (used by offroaders/overlanders) be included? Did I remove frequencies that should have stayed? It's important to cover as many users as possible with a few frequencies as possible so they will be more effectively monitored.
+Should CB or other frequencies be included? Should GMRS 16 (used by offroaders/overlanders) be included? Did I remove frequencies that should have stayed? It's important to cover as many users as possible with a few frequencies as possible so they will be more effectively monitored. If 10 meters and/or CB are used should it be SSB, FM, AM? Lots of variables for an already questionable frequency.
 
 Is it reasonable to offer LowTap as a last option?
+
+What to do if you or someone else needs help.
+  Look them up on APRS?
+  
+Include the Wilderness Protocol Extended in your hiking/paddling/boatins/etc. plans as well as a copy in your car. Include a qr to a dedicated responders page.
+
+Is there room for WSPR/carrier-pigeon?
+
+Leave room in a conversation for others to speak. This is critical when emergency/priority communication is trying to break through a casual chat.
