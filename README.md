@@ -40,6 +40,8 @@ If you are within repeater range: Transmist a Long Tone Zero (LiTZ) by holding t
 ##7.030 MHz as a last option
 Affordable, low power amateur radio kits are common for 7.030 MHz. It is easy to construct a simple dipole antenna which can be installed about as high as you can reach from the ground and used for NVIS propagation to a relatively local coverage area. Many of these radios can be run from either a common 9v battery or 13.8 VDC found in vehicles. Though these radios are often limited to a single frequency, that's also a good thing!. It is possible to build the radio, cut and test the antenna, and pack it all up in a single day. The downside is that this frequency falls in the CW portion of the 40 meter band which usually requires learning morse code. The solution is to learn LowTap (See the repository in the K3KDW Github) which is a much simpler alternative to morse code. If you need help before you learned morse code there's not much hope. If you have the cheat sheet for LowTap handy and have never used it before you should still be able to communicate effectively. Practice is heavily encouraged of course.
 
+If you choose to use 7.030 MHz, it is wise to coordinate with other radio amateurs with capable equipment and skills who can monitor for your call. Casual check ins are helpful for ensuring you are being received from base camp or along a travel route. This step is not strictly necessary but due to the obscurity of this approach compared to 146.52 or GMRS/FRS 19, the prudent will stack the deck in their favor.
+
 ##Additional Information
 It is always legal to listen to these radio frequencies. For normal use a license is required to transmit on Amateur Radio and GMRS frequencies but EMERGENCY USE REQUIRES NO LICENSE. It is highly recommended to get the appropriate license for the frequency you plan to use because you will gain important proficiency with your equipment and you can legally use the radio for non emergency use. Emergency use is always legal.
 
@@ -55,6 +57,8 @@ Commonly used non-amateur bands are added
 #TO DO
 Should CB or other frequencies be included? Should GMRS 16 (used by offroaders/overlanders) be included? Did I remove frequencies that should have stayed? It's important to cover as many users as possible with a few frequencies as possible so they will be more effectively monitored. If 10 meters and/or CB are used should it be SSB, FM, AM? Lots of variables for an already questionable frequency.
 
+How does Marine 16 fit in?
+
 Is it reasonable to offer LowTap as a last option?
 
 What to do if you or someone else needs help.
@@ -65,3 +69,7 @@ Include the Wilderness Protocol Extended in your hiking/paddling/boatins/etc. pl
 Is there room for WSPR/carrier-pigeon?
 
 Leave room in a conversation for others to speak. This is critical when emergency/priority communication is trying to break through a casual chat.
+
+If a second frequency is monitored by the same radio, ensure the radio and antenna are able to transmit on that channel. It is strongly recommended that your radio can also transmit on the monitored frequencies. That said, listening is always better than not listening.
+
+Prepare a layered communications plan. Cell phones are primary for many reasons. Personal Locator Beacons (PLBs) and Satellite Messengers may be a better fit for your needs and should be researched carefully. There are pros and cons to any approach so consider each technology and procedure carefully but plan at least 2 methods of communication even while at home. Cell towers do go out on a mass scale after all...
