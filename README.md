@@ -38,7 +38,7 @@ Users without battery concerns should monitor as often as possible. At minimum t
 If nothing is heard for the first 4 minutes or so, it is helpful to announce your presence to help establish the "network".
 Users should expect to act as a relay for others. In mountainous or otherwise difficult terrain it may not be possible to communicate directly from deep terrain to outside assistance. It may be necessary for multiple users to relay messages back and forth. This takes additional time and careful coordination so patience and careful coordination are critical. Users may not be able to hear each "link" in the relay chain. A long pause in communication that otherwise appears to be going smoothly may not indicate a problem. If in doubt, reach out! Otherwise keep quiet so the established relays can work effectively.
 
-### If your radio is capable of monitoring two of the above frequencies at once, please monitor the following heirarchy on the second slot. The same applies if you have multiple radios.
+### If your radio is capable of monitoring two of the above frequencies at once, please monitor the following hierarchy on the second slot. The same applies if you have multiple radios.
 -  Secondary #1  GMRS/FRS 19           (GMRS and FRS radios share frequencies. Channel 19 is the "main" talk channel. 462.65 MHz FM. Shout to NotARubicon!)
 -  Secondary #2  446.0 MHz Analog FM   (70 cm ham radio calling frequency.)
 -  Secondary #3  28.4 MHz USB          (10 meter ham radio calling frequency.)
