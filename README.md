@@ -44,10 +44,10 @@ Users should expect to act as a relay for others. In mountainous or otherwise di
 -  Secondary #3  28.4 MHz USB          (10 meter ham radio calling frequency.)
 -  Secondary #4  7.030 MHz CW          (40 meter ham radio QRP center of activity. See notes below.)
 
-If you are within repeater range: Transmist a Long Tone Zero (LiTZ) by holding the DTMF key "0" on your radio while transmitting. Some repeaters are equipped with LiTZ functionality which triggers additional help for emergency use. The type of help and availability varies so research and program appropriate repeaters ahead of your trip when possible.
+If you are within repeater range: Transmit a Long Tone Zero (LiTZ) by holding the DTMF key "0" on your radio while transmitting. Some repeaters are equipped with LiTZ functionality which triggers additional help for emergency use. The type of help and availability varies so research and program appropriate repeaters ahead of your trip when possible.
 
 ## 7.030 MHz as a last option
-Affordable, low power ham radio kits are common for 7.030 MHz CW and it's within the privileges of all ham radio licenses. It is easy to construct a simple dipole antenna which can be installed about as high as you can reach from the ground and used for NVIS propagation to a relatively local coverage area. Many of these radios can be run from either a common 9v battery or 13.8 VDC found in vehicles. Though these radios are often limited to a single frequency, that's also a good thing!. It is possible to build the radio, cut and test the antenna, and pack it all up in a single day. The downside is that this frequency falls in the CW portion of the 40 meter band which usually requires learning morse code. The solution is to learn LowTap (See the repository in the K3KDW Github) which is a much simpler alternative to morse code. If you need help before you learned morse code there's not much hope. If you have the cheat sheet for LowTap handy and have never used it before you should still be able to communicate effectively. Practice is heavily encouraged of course.
+Affordable, low power ham radio kits are common for 7.030 MHz CW and it's within the privileges of all ham radio licenses. It is easy to construct a simple dipole antenna which can be installed about as high as you can reach from the ground and used for NVIS propagation to a relatively local coverage area. Many of these radios can be run from either a common 9v battery or 13.8 VDC found in vehicles. Though these radios are often limited to a single frequency, that's also a good thing! It is possible to build the radio, cut and test the antenna, and pack it all up in a single day. The downside is that this frequency falls in the CW portion of the 40 meter band which usually requires learning morse code. The solution is to learn LowTap (See the repository in the K3KDW Github) which is a much simpler alternative to morse code. If you need help before you learned morse code there's not much hope. If you have the cheat sheet for LowTap handy and have never used it before you should still be able to communicate effectively. Practice is heavily encouraged of course.
 
 If you choose to use 7.030 MHz, it is wise to coordinate with other radio amateurs with capable equipment and skills who can monitor for your call. Casual check ins are helpful for ensuring you are being received from base camp or along a travel route. This step is not strictly necessary but due to the obscurity of this approach compared to 146.52 or GMRS/FRS 19, the prudent will stack the deck in their favor.
 
@@ -56,17 +56,17 @@ If you choose to use 7.030 MHz, it is wise to coordinate with other radio amateu
 
 **Leave room in a conversation for others to speak.** This is critical when emergency/priority communication is trying to break through a casual chat.
 
-It is always legal to listen to these radio frequencies. For normal use a license is required to transmit on Amateur (ham) Radio and GMRS frequencies but EMERGENCY USE REQUIRES NO LICENSE. It is highly recommended to get the appropriate license for the frequency you plan to use because you will gain important proficiency with your equipment and you can legally use the radio for non emergency use. Emergency use is always legal.
+It is always legal to listen to these radio frequencies. For normal use a license is required to transmit on Amateur (ham) Radio and GMRS frequencies but EMERGENCY USE REQUIRES NO LICENSE. It is highly recommended to get the appropriate license for the frequency you plan to use because you will gain important proficiency with your equipment and you can legally use the radio for non-emergency use. Emergency use is always legal.
 
 Similarly, though some radios are not normally legal for use on certain frequencies, such as the Baofeng UV-5R on GMRS, emergency use is legal and all means of helping others is encouraged. UV-5R owners should monitor 146.52 and GMRS/FRS 19 and respond to emergencies. Transmitting on GMRS/FRS 19 on an unauthorized radio and without a license is legal for emergency use.
 
 **CTCSS, DTC, PL, etc. tones are not to be used.** If you don't know what these are, you're probably good to go.
 
 The frequencies chosen coincide with calling frequencies and commonly used channels because they are likely to be monitored by a larger user base.
-Non emergency/priority communication can move to another frequency or channel.
+Non-emergency/priority communication can move to another frequency or channel.
 
 ### Prepare a layered communications plan.
-Cell phones are the primary choice for many so a redundant cell phone is helpful but this is not a layered plan and infrastructure issues may impact both. True layering means having multiple, indepentend technologies available and a plan to use them with others. Personal Locator Beacons (PLBs) and Satellite Messengers may be a better fit for your needs and should be researched carefully. There are pros and cons to any approach so consider each technology and procedure carefully but plan at least 2 methods of communication even while at home. Home internet works independently of your cell phone but when you are away from home your internet and phone are now essentially a single point of failure. Cell towers do go out on a mass scale after all...
+Cell phones are the primary choice for many so a redundant cell phone is helpful but this is not a layered plan and infrastructure issues may impact both. True layering means having multiple, independent technologies available and a plan to use them with others. Personal Locator Beacons (PLBs) and Satellite Messengers may be a better fit for your needs and should be researched carefully. There are pros and cons to any approach so consider each technology and procedure carefully but plan at least 2 methods of communication even while at home. Home internet works independently of your cell phone but when you are away from home your internet and phone are now essentially a single point of failure. Cell towers do go out on a mass scale after all...
 
 ### Differences from the original Wilderness Protocol
 Time slots go around the clock instead of 07:00 - 19:00 local time
@@ -85,7 +85,7 @@ Is it reasonable to offer LowTap or T9CW as a last option?
 What to do if you or someone else needs help.
   Look them up on APRS?
   
-Include the Wilderness Protocol Extended in your hiking/paddling/boatins/etc. plans as well as a copy in your car. Include a QR to a dedicated responders page.
+Include the Wilderness Protocol Extended in your hiking/paddling/boating/etc. plans as well as a copy in your car. Include a QR to a dedicated responders page.
 
 Is there room for WSPR/carrier-pigeon?
 
