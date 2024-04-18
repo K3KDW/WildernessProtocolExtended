@@ -117,3 +117,7 @@ Is it helpful or trolling to write a short flyer about Wilderness Protocol Exten
 
 FT8 is everywhere right now. It's impossible to know if this will be popular enough in the long term to rely on but it's certainly automated enough to potentially serve as a bot monitor. FT8 native radios aren't ready for this use yet.
 
+How far are we from a phone app that can listen and decode messages but also pipe them out over audio WITH THE FUNCTIONALITY built into a cable to key the radio? This may be another LowTap protocol application that works much like binary or other digital communications. It's human decodable if necessary but could also be machine to machine.
+
+On the same topic, what would it take to put a LowTap monitor online that listens and reports automatically? Ideally it's good enough to decode human messages but a starting point could be decoding LowTap from the app mentioned above.
+
