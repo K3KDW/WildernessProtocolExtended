@@ -100,3 +100,7 @@ Thank you list
 Recommended radio list
 
 7.030 MHz CW kit and diy NVIS antenna paragraph.
+
+Is there a benefit to having monitors announce a minute or two before the window? The 4 minute rule seems cleaner and easier to remember while accomplishing the same goal.
+
+Are there SOTA or POTA freqs we should consider?
