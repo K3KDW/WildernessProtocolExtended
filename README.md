@@ -87,7 +87,9 @@ What to do if you or someone else needs help.
   
 Include the Wilderness Protocol Extended in your hiking/paddling/boating/etc. plans as well as a copy in your car. Include a QR to a dedicated responders page.
 
-Is there room for WSPR/carrier-pigeon?
+Is there room for WSPR/carrier-pigeon? WSPR is monitored all around the world on a single frequency, reporting is automatic, and some affordable transceivers have WSPR built in. Even low power and compromised antennas can work the world thanks to WSPR's magic. It would be relatively easy to write a watchdog program to monitor the various WSPR reporters and trigger actions. I'm hesitant to get very far at all into digital options due to complexity. Those who have and know how to use this technology likely don't need as much help getting a message out. The 7.030 option is already outside the "I fell 30' but can still make a call" level of simplicity. We shouldn't assume someone is hurt and incapable of establishing comms so maybe reasonable complexity is fine as a tradeoff for an effective last option.
+
+To that end, what about pre-recorded APRS messages a user could play through their radio? This is likely a bad idea but is there a nugget of good we can grab? Is there a bot watchdog on APRS that looks for SOS?
 
 If a second frequency is monitored by the same radio, ensure the radio and antenna are able to transmit on that channel. It is strongly recommended that your radio can also transmit on the monitored frequencies. That said, listening is always better than not listening.
 
@@ -104,3 +106,14 @@ Recommended radio list
 Is there a benefit to having monitors announce a minute or two before the window? The 4 minute rule seems cleaner and easier to remember while accomplishing the same goal.
 
 Are there SOTA or POTA freqs we should consider?
+
+Scanning might be a wise addition. If you can't make contact on the dedicated frequencies, use the scan function (if equipped) to find any active conversation and break in to get help. We want to create as much monitoring as possible on the fewest frequencies required to be effective but situations inevitably arise where nobody is on the designated frequency. Other users, likely entirely unaware of the Wilderness Protocol, will be on a different frequency and can provide assistance. We want to reduce "ships passing in the night" scenarios.
+
+Add language about using crowdsourced monitoring. Dedicated emergency monitoring is nice but can never provide the manpower of an organically popular frequency. THe 4 minute rule should be adjusted to account for already busy channels because it only exists to let others know someone is available. If the frequency is already in use then the goal has already been accomplished. Depending on why the frequency is popular and users who meet on the frequency, it might be worth a brief mention of the Wilderness Protocol Extended so they can help monitor more effectively.
+
+How can we use bots/SDR/etc. to augment monitoring? Is there a WSPRwatch type service we can utilize?
+
+Is it helpful or trolling to write a short flyer about Wilderness Protocol Extended to put in the windshield of baofeng equipped vehicles and give to preparedness groups?
+
+FT8 is everywhere right now. It's impossible to know if this will be popular enough in the long term to rely on but it's certainly automated enough to potentially serve as a bot monitor. FT8 native radios aren't ready for this use yet.
+
