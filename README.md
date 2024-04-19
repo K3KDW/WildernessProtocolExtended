@@ -3,16 +3,25 @@ The original Wilderness Protocol from QST Feb 1994 sets a standard for emergency
 
 ## QUICK REFERENCE
 
-    TIME (LOCAL)           FREQ./CHAN. PRIORITY
-    7:00   -  7:05 AM      #1  146.52 MHz Analog FM
-    10:00  -  10:05 AM     #2  GMRS/FRS 19
-    1:00   -  1:05 PM      #3  446.0 MHz Analog FM
-    4:00   -  4:05 PM      #4  28.4 MHz USB
-    7:00   -  7:05 PM      #5  7.030 MHz CW
-    10:00  -  10:05 PM     (If possible,
-    1:00   -  1:05 AM      monitor two in order
-    4:00   -  4:05 AM      listed above.)
+    TIME (LOCAL)           
+    7:00   -  7:05 AM     
+    10:00  -  10:05 AM    
+    1:00   -  1:05 PM      
+    4:00   -  4:05 PM      
+    7:00   -  7:05 PM      
+    10:00  -  10:05 PM     
+    1:00   -  1:05 AM      
+    4:00   -  4:05 AM      
     
+    FREQ./CHAN. PRIORITY
+    #1  146.52 MHz Analog FM
+    #2  GMRS/FRS 19
+    #3  446.0 MHz Analog FM
+    #4  28.4 MHz USB
+    #5  7.030 MHz CW
+    (If your radio has dual
+    monitor, pick two in
+    the order listed above.)
 
 ### Activity Times are the first 5 minutes of the hour, every 3 hours, starting at 7 AM local.
 Where applicable, monitor adjacent time zones.
