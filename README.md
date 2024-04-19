@@ -111,7 +111,7 @@ Scanning might be a wise addition. If you can't make contact on the dedicated fr
 
 Add language about using crowdsourced monitoring. Dedicated emergency monitoring is nice but can never provide the manpower of an organically popular frequency. THe 4 minute rule should be adjusted to account for already busy channels because it only exists to let others know someone is available. If the frequency is already in use then the goal has already been accomplished. Depending on why the frequency is popular and users who meet on the frequency, it might be worth a brief mention of the Wilderness Protocol Extended so they can help monitor more effectively.
 
-How can we use bots/SDR/etc. to augment monitoring? Is there a WSPRwatch type service we can utilize?
+How can we use bots/SDR/etc. to augment monitoring? Is there a WSPRwatch type service we can utilize? A raspi with an SDR could possibly monitor 146.52 and GMRS/FRS 19 at the same time. If it's network connected it could be set to only turn on during the listening window but ideally it's on all the time. An amazing stretch feature would be some machine learning that listens for distress and alerts a human to investigate. Just listening for the word "MAYDAY" would be amazing.
 
 Is it helpful or trolling to write a short flyer about Wilderness Protocol Extended to put in the windshield of baofeng equipped vehicles and give to preparedness groups?
 
