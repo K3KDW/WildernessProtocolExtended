@@ -130,3 +130,5 @@ How far are we from a phone app that can listen and decode messages but also pip
 
 On the same topic, what would it take to put a LowTap monitor online that listens and reports automatically? Ideally it's good enough to decode human messages but a starting point could be decoding LowTap from the app mentioned above.
 
+What if the Quansheng UV-K5 with the SI4732 mod was paired with a simple CW transmitter and maybe a T/R switch? Bonus points if you can power the CW transmitter from the UV-5K battery! That gets you 146.52, GMRS 19, 28.4 monitoring, 7.030 CW transmit and receive, scanning for occupied channels to call on, NOAA weather, WWV time/date, etc. Some firmware can do text messaging, FM CW for VHF/UHF, and I'm sure someone has or will figure out native APRS functionality as well.
+
